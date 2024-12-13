@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bengi\\OneDrive\\Masa\u00FCst\u00FC\\C# Projects\\TriggeredDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{860DAAAF-BCD4-4062-AF8E-83185E094C2F}|TriggeredDatabase\\TriggeredDatabase.csproj|C:\\Users\\bengi\\OneDrive\\Masa\u00FCst\u00FC\\C# Projects\\TriggeredDatabase\\triggereddatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{860DAAAF-BCD4-4062-AF8E-83185E094C2F}|TriggeredDatabase\\TriggeredDatabase.csproj|solutionrelative:triggereddatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860DAAAF-BCD4-4062-AF8E-83185E094C2F}|TriggeredDatabase\\TriggeredDatabase.csproj|C:\\Users\\bengi\\OneDrive\\Masa\u00FCst\u00FC\\C# Projects\\TriggeredDatabase\\triggereddatabase\\recyclebin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{860DAAAF-BCD4-4062-AF8E-83185E094C2F}|TriggeredDatabase\\TriggeredDatabase.csproj|solutionrelative:triggereddatabase\\recyclebin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860DAAAF-BCD4-4062-AF8E-83185E094C2F}|TriggeredDatabase\\TriggeredDatabase.csproj|c:\\users\\bengi\\onedrive\\masa\u00FCst\u00FC\\c# projects\\triggereddatabase\\triggereddatabase\\recyclebin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860DAAAF-BCD4-4062-AF8E-83185E094C2F}|TriggeredDatabase\\TriggeredDatabase.csproj|solutionrelative:triggereddatabase\\recyclebin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860DAAAF-BCD4-4062-AF8E-83185E094C2F}|TriggeredDatabase\\TriggeredDatabase.csproj|C:\\Users\\bengi\\OneDrive\\Masa\u00FCst\u00FC\\C# Projects\\TriggeredDatabase\\triggereddatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860DAAAF-BCD4-4062-AF8E-83185E094C2F}|TriggeredDatabase\\TriggeredDatabase.csproj|solutionrelative:triggereddatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bengi\\OneDrive\\Masa\u00FCst\u00FC\\C# Projects\\TriggeredDatabase\\TriggeredDatabase\\Form1.cs",
+              "RelativeDocumentMoniker": "TriggeredDatabase\\Form1.cs",
+              "ToolTip": "C:\\Users\\bengi\\OneDrive\\Masa\u00FCst\u00FC\\C# Projects\\TriggeredDatabase\\TriggeredDatabase\\Form1.cs",
+              "RelativeToolTip": "TriggeredDatabase\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwIkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:55:45.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecycleBin.cs",
+              "DocumentMoniker": "C:\\Users\\bengi\\OneDrive\\Masa\u00FCst\u00FC\\C# Projects\\TriggeredDatabase\\TriggeredDatabase\\RecycleBin.cs",
+              "RelativeDocumentMoniker": "TriggeredDatabase\\RecycleBin.cs",
+              "ToolTip": "C:\\Users\\bengi\\OneDrive\\Masa\u00FCst\u00FC\\C# Projects\\TriggeredDatabase\\TriggeredDatabase\\RecycleBin.cs",
+              "RelativeToolTip": "TriggeredDatabase\\RecycleBin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:19:00.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecycleBin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bengi\\OneDrive\\Masa\u00FCst\u00FC\\C# Projects\\TriggeredDatabase\\TriggeredDatabase\\RecycleBin.cs",
+              "RelativeDocumentMoniker": "TriggeredDatabase\\RecycleBin.cs",
+              "ToolTip": "C:\\Users\\bengi\\OneDrive\\Masa\u00FCst\u00FC\\C# Projects\\TriggeredDatabase\\TriggeredDatabase\\RecycleBin.cs [Design]",
+              "RelativeToolTip": "TriggeredDatabase\\RecycleBin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:15:43.308Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bengi\\OneDrive\\Masa\u00FCst\u00FC\\C# Projects\\TriggeredDatabase\\TriggeredDatabase\\Form1.cs",
+              "RelativeDocumentMoniker": "TriggeredDatabase\\Form1.cs",
+              "ToolTip": "C:\\Users\\bengi\\OneDrive\\Masa\u00FCst\u00FC\\C# Projects\\TriggeredDatabase\\TriggeredDatabase\\Form1.cs [Design]",
+              "RelativeToolTip": "TriggeredDatabase\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:49:16.353Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 723,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 723,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

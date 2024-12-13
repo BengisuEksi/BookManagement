@@ -1,0 +1,11 @@
+C:\Users\bengi\Desktop\C# Projects\TriggeredDatabase\TriggeredDatabase\bin\Debug\TriggeredDatabase.exe.config
+C:\Users\bengi\Desktop\C# Projects\TriggeredDatabase\TriggeredDatabase\bin\Debug\TriggeredDatabase.exe
+C:\Users\bengi\Desktop\C# Projects\TriggeredDatabase\TriggeredDatabase\bin\Debug\TriggeredDatabase.pdb
+C:\Users\bengi\Desktop\C# Projects\TriggeredDatabase\TriggeredDatabase\obj\Debug\TriggeredDatabase.csproj.AssemblyReference.cache
+C:\Users\bengi\Desktop\C# Projects\TriggeredDatabase\TriggeredDatabase\obj\Debug\TriggeredDatabase.Form1.resources
+C:\Users\bengi\Desktop\C# Projects\TriggeredDatabase\TriggeredDatabase\obj\Debug\TriggeredDatabase.Properties.Resources.resources
+C:\Users\bengi\Desktop\C# Projects\TriggeredDatabase\TriggeredDatabase\obj\Debug\TriggeredDatabase.csproj.GenerateResource.cache
+C:\Users\bengi\Desktop\C# Projects\TriggeredDatabase\TriggeredDatabase\obj\Debug\TriggeredDatabase.csproj.CoreCompileInputs.cache
+C:\Users\bengi\Desktop\C# Projects\TriggeredDatabase\TriggeredDatabase\obj\Debug\TriggeredDatabase.exe
+C:\Users\bengi\Desktop\C# Projects\TriggeredDatabase\TriggeredDatabase\obj\Debug\TriggeredDatabase.pdb
+C:\Users\bengi\Desktop\C# Projects\TriggeredDatabase\TriggeredDatabase\obj\Debug\TriggeredDatabase.RecycleBin.resources
